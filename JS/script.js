@@ -5,7 +5,7 @@
 
 
     let contagem = 10;
-    while(contagem >= 0){
+    while(contagem >= 1){
         console.log("While diminuindo: ", contagem);
         contagem --;
 
